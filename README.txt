@@ -1,3 +1,4 @@
+pyClamad 是一个 Python 模块，可让 Python 应用直接使用 ClamAV 病毒扫描守护进程 clamd
 pyClamd is a portable Python module to use the ClamAV antivirus engine on 
 Windows, Linux, MacOSX and other platforms. It requires a running instance of 
 the clamd daemon.
